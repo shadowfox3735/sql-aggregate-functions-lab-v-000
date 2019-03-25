@@ -9,10 +9,11 @@ def lowest_student_gpa
 end
 
 def average_student_gpa
-  ""
+  "AVG(gpa)"
 end
 
 def total_tardies_for_all_students
+  "SUM()"
 end
 
 def average_gpa_for_9th_grade
